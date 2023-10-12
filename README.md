@@ -1,5 +1,5 @@
 # hsw-versionierung-s3
 
-O - -
+O X -
 - X -
 - - -

@@ -2,4 +2,4 @@
 
 O X -
 X X O
-- o X
+o o X
